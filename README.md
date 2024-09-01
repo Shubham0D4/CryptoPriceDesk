@@ -9,8 +9,8 @@
   <h6>HTML5, CSS3 and Javascript</h6>
 </h4>
 <h2>Technology used:</h2>
-<h4 styles = "display:block;">Web scrapping using API: <a href = "https://api.coingecko.com/api/v3/coins/markets">https://api.coingecko.com/api/v3/coins/markets</a></h4>
-
+<h4 styles = "display:block;">Web scrapping using API:</h4><h6> <a href = "https://api.coingecko.com/api/v3/coins/markets">https://api.coingecko.com/api/v3/coins/markets</a>
+</h6>
 <h2>How to run project on Localhost:</h2>
 <h4>Run the command:</h4><h6>npm install</h6>
 <h4>Run the command:</h4><h6>npm install nodemon</h6>
